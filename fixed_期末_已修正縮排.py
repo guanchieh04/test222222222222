@@ -548,7 +548,7 @@ last_nan_index_MA_trading = nan_indexes_MA_trading[0] if len(nan_indexes_MA_trad
 
         
         ### 建立部位管理物件
-        OrderRecord=Record()
+OrderRecord=Record()
         
         # ###### 變為字典
         # # KBar_dic = KBar_df_original.to_dict('list')
